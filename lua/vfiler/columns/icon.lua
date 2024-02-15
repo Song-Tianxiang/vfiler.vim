@@ -7,8 +7,8 @@ IconColumn.configs = {
   icons = {
     selected = '*',
     file = ' ',
-    closed = '+',
-    opened = '-',
+    closed = '',
+    opened = '',
   },
 }
 
