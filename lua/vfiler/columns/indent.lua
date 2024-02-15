@@ -4,7 +4,7 @@ local vim = require('vfiler/libs/vim')
 local IndentColumn = {}
 
 IndentColumn.configs = {
-  icon = '|',
+  icon = ' ',
 }
 
 function IndentColumn.setup(configs)
